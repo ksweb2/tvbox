@@ -3,7 +3,7 @@
     "sites": 
     [  
       {"key": "天堂资源", "name": "🌶飞飞资源", "type": 1, "api": "https://www.feisuzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-      {"key": "诺讯资源", "name": "🍱诺讯资源", "type": 1, "api": "http://caiji.nxflv.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+      {"key": "非凡资源", "name": "🍱非凡资源", "type": 1, "api": "https://api.ffzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
         
        {"key": "push_agent", "name": "推送", "type": 3, "api": "csp_PushAgent", "searchable": 0, "quickSearch": 0, "filterable": 0 }
   ], 
