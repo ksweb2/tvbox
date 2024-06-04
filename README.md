@@ -1,5 +1,4 @@
 {
-"spider":"https://raw.iqiq.io/pickear/tbs/main/spider/custom_spider22091401.jar;md5;88edf8de10f957592b3b67a136682597",
     "sites": 
     [  
       {"key": "飞飞资源", "name": "🌶飞飞资源", "type": 1, "api": "https://www.feisuzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
