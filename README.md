@@ -1,3 +1,2 @@
 Mylist,#genre#
-CCTV13,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV13&t=1757403106&token=c5fc4c5e54a0329f9a545e9549806150
-CCTV13,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV13&t=1757401893&token=920495ae95462e0fe56ac99281ee4e3a
+CCTV13,http://live-play-hls.cctvnews.cctv.com/CCTVChannel/live-play.cctvnews.cctv.com_channel_cctv13_mbd-1758679028354.ts?auth_key=1758732981-1-c3d30c21e09643a499872a7d5ba06b39-ebec1323d7e3da577837b34abfddbb8d
